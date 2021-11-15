@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConfigForm-P5-130", "ServerConfigForm-P5-130\ServerConfigForm-P5-130.csproj", "{BD061B43-F56C-4CA3-9010-F76DC737755E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD061B43-F56C-4CA3-9010-F76DC737755E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD061B43-F56C-4CA3-9010-F76DC737755E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD061B43-F56C-4CA3-9010-F76DC737755E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD061B43-F56C-4CA3-9010-F76DC737755E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6E960B-D4F5-4D6F-AB1E-059BCF322F2B}
+	EndGlobalSection
+EndGlobal
